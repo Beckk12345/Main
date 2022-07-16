@@ -12,7 +12,7 @@ public class Main {
            User user1 = new User("Bek", 28);
            System.out.println(user1.toString());
 
-
+           System.out.println("Herlomnkljgnng ");
        }
 
         }
