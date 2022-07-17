@@ -14,7 +14,15 @@ public class User extends Object {
 
         return "Hello: " + name + ". Your age: " + age ;
 
-        s
+
+
+
+
+    }
+
+    public static void main(String[] args) {
+        System.out.println("Hello");
+        System.out.println("Hello trkoi");
     }
 }
 
